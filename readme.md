@@ -8,6 +8,9 @@ Author: Adebayo Aonullahi
 The models were trained on PMS consumption data accross all states in Nigeria from 2012 to 2017 and validated with data in 2018. 
 
 ## Charts
+**_Heat Map_**:<br>
+<img src="map.png"><br>
+
 **_ARIMA Model_**:<br>
 <img src="arima.png"><br>
 
